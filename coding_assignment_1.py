@@ -1,5 +1,5 @@
 """
-This assignment was done and submitted by
+This assignment was completed and submitted by
 Yaw Akosah Asare
 10946857
 """
