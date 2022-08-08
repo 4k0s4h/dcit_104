@@ -1,4 +1,4 @@
 # dcit_104
-programming fundamentals
+*programming fundamentals*
 
-This repository contains all coding assignments from DCIT 104 Programming Fundamentals
+This repository contains all coding assignments from DCIT 104 - Programming Fundamentals
